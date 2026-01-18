@@ -6,8 +6,6 @@ A simple and interactive **Text to Speech Converter** built using **HTML, CSS, a
 
 ## 🚀 Live Demo
 
-> *(Optional)* Add your deployed link here
-
 ```
 https://txtspeech.ccbp.tech/
 ```
